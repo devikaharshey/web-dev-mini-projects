@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+}
+
+h2{
+    font-weight: 500;
+    -webkit-text-stroke: 0.7px;
+    -webkit-text-stroke-color: black;
+}
+
+h2[val="1"]{
+    color: red;
+}
+
+h2[val="2"]{
+    color: blue;
+}
+
+h2[val="3"]{
+    color: yellow;
+}
+
+h2[val="4"]{
+    color: orange;
+}
+
+h2[val="5"]{
+    color: green;
+}
+
+h2[val="6"]{
+    color: purple;
+}
