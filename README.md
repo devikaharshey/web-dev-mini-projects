@@ -1,6 +1,7 @@
 # ABOUT THIS REPOSITORY
 This repository contains my "mini-projects" on web-development made using HTML &amp; CSS.
-# CONTENT
+
+# CONTENTS
 # 1) Colour Dictionary
 This is a project of colour dictionary which tells the colour names in Japanese.
 # 2) Responsive Website
