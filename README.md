@@ -1,4 +1,4 @@
-# ABOUT THIS REPOSITORY
+# • ABOUT THIS REPOSITORY
 This repository contains my "mini-projects" on web-development made using HTML &amp; CSS.
 
 # CONTENTS
