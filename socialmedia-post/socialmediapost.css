@@ -1,0 +1,28 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: "Libre Baskerville", regular;
+    -webkit-text-fill-color: rgb(86, 18, 18);
+    text-shadow: 1px 1px 20px rgb(229, 197, 180);
+    -webkit-text-stroke: 0.5px burlywood;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    -webkit-text-fill-color: white;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border: 5px solid white;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
