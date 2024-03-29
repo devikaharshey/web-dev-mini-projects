@@ -4,10 +4,12 @@ This repository contains my mini-projects on web-development made using HTML &am
 # ▸ CONTENTS
 # 1) 3D Flip Card
 This is a project of a 3D Flip Card which can flip to 180 degrees when we move the cursor over it and it contains two sides i.e. "front-side" & "back-side".
-# 2) Colour Dictionary
+# 2) Basic Pricing Table
+This is a project of basic pricing table which is entirely based on concept of 'flexbox'.
+# 3) Colour Dictionary
 This is a project of colour dictionary which tells the colour names in Japanese.
-# 3) Responsive Website
+# 4) Responsive Website
 This is a project of a responsive website for "Design Agency" which adjusts itself according to various screen-sizes.
-# 4) Social Media Post
+# 5) Social Media Post
 This is a project of a social media post made using HTML & CSS.
 
