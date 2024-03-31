@@ -1,0 +1,76 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(227, 182, 105);
+}
+
+.container {
+    height: 758px;
+    width: 748px;
+    display: grid;
+    grid-template-columns: 320px 198px 153px 50px;
+    grid-template-rows: 414px 130px 165px 20px;
+    background: #232629;
+    gap: 9px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 10px #232629;
+}
+
+.cell1 {
+    background: #E72F24;
+    height: 414px;
+    width: 320px;
+}
+
+.cell2 {
+    background: #F0F1EC;
+    grid-column: span 3;
+}
+
+.cell3 {
+    background: #F0F1EC;
+    border-top: 10px solid #F0F1EC;
+    grid-row: span 2;
+    height: 295px;
+    width: 320px;
+}
+
+.cell4 {
+    background: #F0F1EC;
+    border-top: 10px solid #F0F1EC;
+    grid-row: span 2;
+    grid-column: span 2;
+    height: 295px;
+    width: 360px;
+}
+
+.cell5 {
+    background: #004592;
+    height: 130px;
+    width: 50px;
+}
+
+.cell6 {
+    background: #F0F1EC;
+    grid-row: span 2;
+    height: 186px;
+    border-top: 10px solid #232629;
+}
+
+.cell7 {
+    background: #F0F1EC;
+    grid-row: span 2;
+    height: 22px;
+    width: 320px; 
+}
+
+.cell8 {
+    background: #F9D01E;
+    height: 22px;
+}
+
+.cell9 {
+    background: #232629;
+    height: 22px;
+}
