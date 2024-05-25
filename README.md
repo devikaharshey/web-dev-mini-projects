@@ -16,4 +16,6 @@ This is a project of a Mondrian Painting which is based on the concept of 'grid'
 This is a project of a responsive website for "Design Agency" which adjusts itself according to various screen-sizes.
 # 7) Social Media Post
 This is a project of a social media post made using HTML & CSS.
+# 8) Temprature Converter
+This is a project of a temprature converter that converts the temprature into Celsius, Fahrenheit & Kelvin.
 
