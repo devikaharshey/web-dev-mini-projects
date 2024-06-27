@@ -1,5 +1,5 @@
 # ▸ ABOUT THIS REPOSITORY
-This repository contains my mini-projects on web-development made using HTML, CSS &amp JavaScript; .
+This repository contains my mini-projects on web-development made using HTML, CSS & JavaScript.
 
 # ▸ CONTENTS
 # 1) 3D Flip Card
